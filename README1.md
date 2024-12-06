@@ -1,6 +1,6 @@
-#headings:
+# headings:
 
-#first line
-##second line
-###third line
-####fourth line
+# first line
+## second line
+### third line
+#### fourth line
